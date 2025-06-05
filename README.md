@@ -20,7 +20,7 @@ Este projeto combina o aplicativo Angular como front-end para consumir os servi�
 
 Os projetos learn-spring-boot e learn-jpa-and-hibernate fazem parte do conteúdo do curso, fornecendo uma explicação sobre o que será utilizado no projeto final.
 
-Para ser claro e honesto, este projeto foi construído de acordo com as instruções do curso: Go Java Full Stack com Spring Boot e Angular da Udemy (https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/) e tendo Ranga Karanam como instrutor. Dessa forma, todos os direitos autorais da empresa vão para Ranga Karanam em 28 minutos, tendo o https://github.com/in28minutes/full-stack-with-angular-and-spring-boot como repositório oficial do curso. Sou apenas um profissional estudando programação.
+Para ser claro e honesto, este projeto foi construído de acordo com as instruções do curso: Go Java Full Stack com Spring Boot e Angular da Udemy (https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/) e tendo Ranga Karanam como instrutor. Dessa forma, todos os direitos autorais vão para Ranga Karanam da empresa em 28 minutos, tendo o https://github.com/in28minutes/full-stack-with-angular-and-spring-boot como repositório oficial do curso. Sou apenas um profissional estudando programação.
 
 Para usar o software, utilizei o Java versão 21, a versão estável mais recente do Node.js, o Angular CLI para gerar e gerenciar o projeto Angular e a dependência Bootstrap para estilização. Dessa forma, recomendo a mesma configuração.
 
