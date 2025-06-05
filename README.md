@@ -1,5 +1,5 @@
 # TodoProject
-[ENGLISH]
+[ENGLISH]</br>
 The goal of this project is to practice the concepts of the languages Angular and Java Spring Boot separately, then connecting them based on request and response in an interactive way (browser), using as background knowledge the database structure using H2, SQL, Spring Data JPA, the building of a RestAPI,  and authentication using Java Web Token (JWT).
 
 This project combines the Angular app serving as a front-end to consume the Java Spring Boot app services as a back-end (restful-web-services), including managing the H2 in-memory database. Then, with these apps running and talking to each other, users can open the app from the browser to log in with their username and password to authenticate using Java Web Token (JWT) as session control. Once authenticated, the user can retrieve, update, delete, add new todos, and log out from the system.
