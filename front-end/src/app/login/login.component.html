@@ -1,0 +1,17 @@
+<h1>Welcome to the Login page</h1>
+
+<div class="container">
+    <div class="form">
+        <div class="alert alert-warning" *ngIf="invalidLogin">{{errorMessage}}</div>
+        <div>
+            <label for="username">Username:</label>
+            <input type="text" name="username" id="username" [(ngModel)]="username"> <!--value="{{username}}"-->
+            <label for="password">Password: </label>
+            <input type="password" name="password" id="password" [(ngModel)]="password">
+          <button (click)="handleJWTAuthLogin()" class="btn btn-success"> Login</button>  
+        </div>
+    </div>
+</div>
+<!--adding meaning to the template, angular (*ngif) will show the content IF the invalidLogin is true, relating ngif to property -->
+<!--<button (click)=handleLogin() class="btn btn-success">Login</button>-->
+<!--<button (click)="handleBasicAuthLogin()" class="btn btn-success">Login</button>-->

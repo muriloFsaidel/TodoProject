@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+SA:wght@100..400&display=swap');
+
+div.form {
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 270px;
+    /*margin-top: 17%;
+    margin-left: 35%;
+    border: 1px solid black;
+    border-radius: 15px;*/
+}
+
+div.form label,input,button {
+    margin: 10px;
+    font-family: "Playwrite AU SA", serif;
+    font-size: medium;
+}
+
+div.form label {
+    font-weight: 600;
+}
+
+div.form input, button {
+    font-weight: 500;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+/*div.form button {
+    background-color: aqua;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+
+small {
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-weight: 600;
+    font-family: "Playwrite AU SA", serif; 
+    margin-left: -20px;
+    margin-top: 2%;
+}*/
