@@ -25,3 +25,9 @@ Para ser claro e honesto, este projeto foi construído de acordo com as instruç
 Para usar o software, utilizei o Java versão 21, a versão estável mais recente do Node.js, o Angular CLI para gerar e gerenciar o projeto Angular e a dependência Bootstrap para estilização. Dessa forma, recomendo a mesma configuração.
 
 Gerarei uma gravação explicando o uso do projeto e suas interações no futuro.
+
+O futuro chegou!
+
+## Explicação
+Apresentação prática: https://www.youtube.com/watch?v=XvuOg2o-OpY
+Apresentação teórica: https://www.youtube.com/watch?v=coV3Wo9V3qo
