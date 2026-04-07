@@ -29,5 +29,5 @@ Gerarei uma gravação explicando o uso do projeto e suas interações no futuro
 O futuro chegou!
 
 ## Explicação
-Apresentação prática: https://www.youtube.com/watch?v=XvuOg2o-OpY
+Apresentação prática: https://www.youtube.com/watch?v=XvuOg2o-OpY  <br/>
 Apresentação teórica: https://www.youtube.com/watch?v=coV3Wo9V3qo
